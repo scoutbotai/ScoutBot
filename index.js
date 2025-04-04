@@ -1,1 +1,0 @@
-// React/Next.js main page
