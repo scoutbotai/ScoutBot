@@ -1,1 +1,0 @@
-// Placeholder content for components/ResultCard.tsx
