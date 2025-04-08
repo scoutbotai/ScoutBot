@@ -1,0 +1,1 @@
+export default function ProfitCalculator() { return <div>ProfitCalculator working</div>; }

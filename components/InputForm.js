@@ -1,0 +1,1 @@
+export default function InputForm() { return <div>InputForm working</div>; }
